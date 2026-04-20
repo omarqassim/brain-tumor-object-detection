@@ -1,4 +1,4 @@
-person
-car
-dog
-cat
+Glioma
+Meningioma
+No Tumor
+Pituitary
